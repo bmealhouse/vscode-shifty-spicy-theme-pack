@@ -1,0 +1,50 @@
+{
+  "name": "shifty-spicy-theme-pack",
+  "displayName": "shifty + spicy theme pack",
+  "description": "Too 🔥 to handle",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmealhouse/vscode-shifty-spicy-theme-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/bmealhouse/vscode-shifty-spicy-theme-pack/issues"
+  },
+  "author": "Brent Mealhouse <bmealhouse@gmail.com>",
+  "publisher": "bmealhouse",
+  "engines": {
+    "vscode": "^1.31.0"
+  },
+  "categories": [
+    "Themes",
+    "Extension Packs",
+    "Other"
+  ],
+  "keywords": [
+    "shift",
+    "random",
+    "theme",
+    "font",
+    "pomodoro",
+    "spicy"
+  ],
+  "icon": "images/shifty-logo.png",
+  "galleryBanner": {
+    "color": "#193549",
+    "theme": "dark"
+  },
+  "extensionPack": [
+    "bmealhouse.shifty",
+    "wesbos.theme-cobalt2",
+    "dracula-theme.theme-dracula",
+    "jolaleye.horizon-theme-vscode",
+    "equinusocio.vsc-material-theme",
+    "sdras.night-owl",
+    "liviuschera.noctis",
+    "tinkertrain.theme-panda",
+    "daylerees.rainglow",
+    "ahmadawais.shades-of-purple",
+    "johnpapa.winteriscoming"
+  ]
+}
